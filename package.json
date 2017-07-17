@@ -1,5 +1,5 @@
 {
-  "name": "cxx_testbot_ver3",
+  "name": "facebook-messenger-echo-bot-example",
   "version": "1.0.0",
   "description": "TestBot Server App",
   "main": "index.js",
