@@ -1,0 +1,18 @@
+{
+  "name": "cxx_testbot_ver3",
+  "version": "1.0.0",
+  "description": "TestBot Server App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Chi-Chun Hsu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "botimize": "^0.4.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  }
+}
