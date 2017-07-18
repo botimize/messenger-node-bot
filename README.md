@@ -139,7 +139,8 @@ Keep this Url (e.g. https://your_app_name.herokuapp.com).
 
 ## Talk to your bot
 
-Set up the webhook by pasting https://your_app_name.herokuapp.com into the field and subscribe to your page.
-Your password for the webhook is **testbot_verify_token** which shows in the upper nodejs script.
-![webhook](/img/webhook.png)
+Go to the [facebook developer dashboard](https://developers.facebook.com/apps) again, set up the webhook by filling https://your_app_name.herokuapp.com into the field and subscribe to your page.
+Your password for the webhook is **testbot_verify_token** which has shown in the upper nodejs script.
+![webhook](/img/webhook_token.png)
+
 Now you can talk to your bot!
